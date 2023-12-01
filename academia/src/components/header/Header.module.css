@@ -5,17 +5,36 @@
   }
 
 .header{
-    font-size: 40px;
-    color: aqua;
-    padding: 0px 0px;
-    border-radius: 50px;
+    font-family: 'Anton', sans-serif;
+    font-size: 120px;
+    color: #FFFFFF;
+    position: relative;
+    top: -500px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    
+    /* left: 70px; */
 }
 img{
-    width: 125%;
-  display: flex;
-  text-align: center;
-  justify-content: center;
+    width: 100%;
+    margin-top: -70px;
   /* margin-left: -150px; */
-  background-image: url(`../../assets/img/academia.png`);
+}
+
+.simbolo{
+  width: 8%;
+  height: 8%;
+  position: relative;
+  /* margin-top: -150px; */
+  top: 100px;
+  right: 630px;
+}
+
+button{
+  position: relative;
+  top: -450px;
+  left: 20px;
   
 }

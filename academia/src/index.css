@@ -1,13 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,600;1,900&display=swap');
 
 :root {
- 
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #141414;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -17,11 +17,12 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #676A6C;
   text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+  cursor: pointer;
+  color: black;
 }
 
 
@@ -44,18 +45,20 @@ h1 {
 }
 
 button {
-  border-radius: 8px;
+  text-transform: uppercase;
+  font-size: 20px;
   border: 1px solid transparent;
-  padding: 0.6em 1.2em;
+  padding: 1.3em 2.6em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #F9EF23;
   cursor: pointer;
+  color: black;
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #ffffff;
 }
 button:focus,
 button:focus-visible {

@@ -1,0 +1,22 @@
+.menu{
+    background-color: #FFFFFF;
+    color: #676A6C;
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+}
+
+.menu ul li{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    float: left;
+}
+
+.menu li{
+    position: relative;
+    left: 900px;
+    margin-left: 40px;
+    font-size: 18px;
+
+}
