@@ -1,0 +1,83 @@
+.about{
+    font-family: 'Anton', sans-serif;
+    color: #F9EF23;
+    text-transform: uppercase;
+    display: flex;
+    text-align: start;
+    width: 30vw;
+    font-size: 65px;
+    position: relative;
+    left: 170px;
+    top: -110px;
+}
+
+h2{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: start;
+    text-align: start;
+    font-size: 22px;
+    width: 460px;
+    position: relative;
+    left: 170px;
+    top: -90px;
+    line-height: 30px;
+}
+
+.imagens{
+    width: 20%;
+    height: 20%;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    transition: transform 0.5s ease;
+    
+}
+
+.homem{
+    z-index: 1;
+    position: relative;
+    left: 750px;
+    top: -350px;
+}
+
+.mulher{
+    z-index: 1;
+    position: relative;
+    left: 1100px;
+    top: -580px;
+}
+
+.mulher:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+.homem:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s ease;
+}
+
+.retangulo{
+    position: relative;
+    top: -1000px;
+    left: 700px;
+    background-color: #F9EF23;
+    color: #FFFFFF;
+    padding: 150px 370px;
+    
+}
+
+.saibaMais{
+    position: relative;
+    margin-left: 170px;
+    display: flex;
+    color: #FFFFFF;
+    text-decoration: underline;
+    
+}
+
+.saibaMais:hover{
+    color: darkgray;
+    
+}
