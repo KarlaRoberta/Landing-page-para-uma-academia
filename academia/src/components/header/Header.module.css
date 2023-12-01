@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0px 0px;
+    overflow-x: hidden;
+  }
+
+.header{
+    font-size: 40px;
+    color: aqua;
+    padding: 0px 0px;
+    border-radius: 50px;
+}
+img{
+    width: 125%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  /* margin-left: -150px; */
+  background-image: url(`../../assets/img/academia.png`);
+  
+}
