@@ -1,0 +1,46 @@
+.localizacao{
+    position: relative;
+    top: 250px;
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+    color: #F9EF23;
+    text-transform: uppercase;
+}
+
+.icon{
+    position: relative;
+    color: #F9EF23;
+    top: 250px;
+    right: 100px;
+    width: 50vw;
+    font-size: 150px;
+}
+
+.imagensAnteseDepois{
+    width: 27%;
+    display: flex;
+    float: left;
+    position: relative;
+    top: 400px;
+}
+
+.imagensAnteseDepois img{
+    margin-left: 40px;
+    position: relative;
+    left: 60px;
+}
+
+
+.blocoDepoimentos span{
+
+    background-color: #F9EF23;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    top: 570px;
+   
+    float: left;
+    padding: 10px 25px;
+    
+    
+}
