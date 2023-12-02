@@ -14,20 +14,18 @@
     justify-content: center;
     text-align: center;
     text-transform: uppercase;
-    
-    /* left: 70px; */
+  
 }
 img{
     width: 100%;
     margin-top: -70px;
-  /* margin-left: -150px; */
+ 
 }
 
 .simbolo{
   width: 8%;
   height: 8%;
   position: relative;
-  /* margin-top: -150px; */
   top: 100px;
   right: 630px;
 }
