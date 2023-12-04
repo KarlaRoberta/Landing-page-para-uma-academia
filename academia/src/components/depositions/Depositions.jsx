@@ -5,6 +5,7 @@ import mulherd from "../../assets/img/mulherd.png";
 import homem from "../../assets/img/rapaz.png";
 
 export const Depositions = () => {
+
   return (
     <div>
         <h1 className={classes.localizacao}>Depoimentos</h1>

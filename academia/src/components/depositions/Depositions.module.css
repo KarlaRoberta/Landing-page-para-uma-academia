@@ -32,15 +32,17 @@
 
 
 .blocoDepoimentos span{
-
     background-color: #F9EF23;
+    
     position: relative;
+    right: 210px;
     display: flex;
     flex-wrap: wrap;
-    top: 570px;
+    /* top: 570px; */
    
     float: left;
-    padding: 10px 25px;
-    
+    padding: 90px 171px;
+    margin-left: 26px;
+    margin-top: 500px;
     
 }
