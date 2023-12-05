@@ -12,6 +12,9 @@
 ## Serviços
 ![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/e42086bb-1bab-4cef-8f45-ec2897f1acea)
 
+## Depoimentos
+![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/41ecdef0-2d5f-4c18-8861-4de413b88c9a)
+
+
 ## 👩‍💻 Próximos passos:
-- Localização
 - Contatos
