@@ -36,3 +36,9 @@ button{
   left: 20px;
   
 }
+
+@media (max-width: 460px){ 
+  .header{
+    font-size: 54px;
+  }
+}

@@ -47,3 +47,17 @@
     font-size: 30px;
     
 }
+
+@media (max-width: 460px){ 
+    .services h1{
+        margin-top: 150px;
+    }
+
+    .services h2{
+        margin-top: 150px;
+        justify-content: center;
+        text-align: center;
+        width: 380px;
+        
+    }
+}

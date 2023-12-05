@@ -4,6 +4,7 @@
     width: 100%;
     padding: 10px;
     position: fixed;
+    z-index: 1000;
 }
 
 .menu ul li{
@@ -18,5 +19,18 @@
     left: 900px;
     margin-left: 40px;
     font-size: 18px;
+}
 
+@media (max-width: 460px){ 
+
+    .menu{
+        display: flex;
+        text-align: center;
+    }
+
+    .menu ul li{
+       visibility: hidden;
+    }
+    
+    
 }
