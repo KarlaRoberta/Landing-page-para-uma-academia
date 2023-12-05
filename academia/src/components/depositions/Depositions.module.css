@@ -49,10 +49,8 @@
     background-color: #F9EF23;
     height: 200px;
     width: 28.5%;
-    
     padding: 26px;
     margin-top: 198px;
-    
     position: relative;
     left: 28px;
     
@@ -73,9 +71,7 @@
 .depoimentos li{
     width: 20px;
     padding: 30px;
-    margin-top: 20px;
     position: relative;
     left: 50px;
     
-
 }

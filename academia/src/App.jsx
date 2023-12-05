@@ -5,6 +5,7 @@ import Menu from './components/menu/Menu'
 import About from './components/about/About'
 import Service from './components/servic/Service'
 import Location from './components/depositions/Depositions'
+import Contacts from './components/contacts/Contacts'
 
 function App() {
   
@@ -17,6 +18,7 @@ function App() {
       <About/>
       <Service/>
       <Location/>
+      <Contacts/>
     </div>
     </>
   )
