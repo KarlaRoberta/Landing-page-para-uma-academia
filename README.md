@@ -15,6 +15,9 @@
 ## Depoimentos
 ![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/41ecdef0-2d5f-4c18-8861-4de413b88c9a)
 
+## Contatos
+![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/424d4353-888e-4adb-9f04-dcfb9da716e7)
+
 
 ## 👩‍💻 Próximos passos:
-- Contatos
+- Responsividade
