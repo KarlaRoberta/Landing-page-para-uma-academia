@@ -21,7 +21,7 @@ const Contacts = () => {
             <h3>alo@sitebacana.com.br</h3>
 
             <h2>Telefone</h2>
-            <h3>(12)34567890</h3>
+            <h3 className={classes.telefone}>(12)34567890</h3>
         </div>
 
     </div>
