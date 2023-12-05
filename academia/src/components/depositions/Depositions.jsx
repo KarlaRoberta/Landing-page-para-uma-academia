@@ -23,11 +23,11 @@ export const Depositions = () => {
             <span></span>
           </div>
 
-            {/* <ul>
+            <ul>
                 <li>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Laura Borges, 31</li>
                 <li>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Luana Cruz, 28</li>
                 <li>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Tomas Costa, 44</li>
-            </ul> */}
+            </ul>
         </div>
 
       

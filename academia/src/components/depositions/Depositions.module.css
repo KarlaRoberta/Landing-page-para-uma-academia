@@ -1,6 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .localizacao{
     position: relative;
-    top: 250px;
+    top: 70px;
     font-size: 50px;
     font-family: 'Anton', sans-serif;
     color: #F9EF23;
@@ -21,7 +25,7 @@
     display: flex;
     float: left;
     position: relative;
-    top: 400px;
+    top: 200px;
 }
 
 .imagensAnteseDepois img{
@@ -30,19 +34,48 @@
     left: 60px;
 }
 
+.blocoDepoimentos{
+    border: 2px solid #FFFF;
+    width: 95%;
+    margin-left: 30px;
+    height: 250px;
+    display: flex;
+    
+    
+}
 
 .blocoDepoimentos span{
+    
     background-color: #F9EF23;
+    height: 200px;
+    width: 28.5%;
+    
+    padding: 26px;
+    margin-top: 198px;
     
     position: relative;
-    right: 210px;
-    display: flex;
-    flex-wrap: wrap;
-    /* top: 570px; */
-   
-    float: left;
-    padding: 90px 171px;
-    margin-left: 26px;
-    margin-top: 500px;
+    left: 28px;
     
+}
+
+.depoimentos ul li{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+    color: black;
+    width: 400px;
+    font-weight: bolder;
+}
+
+.depoimentos li{
+    width: 20px;
+    padding: 30px;
+    margin-top: 20px;
+    position: relative;
+    left: 50px;
+    
+
 }

@@ -1,3 +1,4 @@
+
 .services h1{
     color: #F9EF23;
     text-transform: uppercase;
@@ -14,62 +15,35 @@
 }
 
 .imagensService{
-    width: 24vw;
-    height: 40vh;
+    width: 25vw;
+    height: 50vh;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
+    justify-items: center;
     margin-left: 170px;
-   
-    
-}
-
-.imagensService img {
-    margin-top: 10px;
-    margin-bottom: 20px;
-    display: flex;
-    float: left;
-}
-
-.tour{
-    position: relative;
-    top: -30px;
-    display: flex;
-    
+    margin-top: -80px;
 
 }
 
-.aulas{
-    display: flex;
-    position: relative;
-    margin-left: 400px;
-    top: -483px;
-}
-
-.personal{
-    display: flex;
-    margin-left: 800px;
-    margin-top: -500px;
-    position: relative;
-    top: -935px;
+.imagensService img{
+    padding: 15px;
 }
 
 .categorias{
-    position: absolute;
-    left: 10px;
-    z-index: 1;
     display: flex;
-    float: left;
-    text-transform: uppercase;
-    font-family: 'Anton', sans-serif;
-    color: white;
+    justify-items: center;
+    position: relative;
 }
 
 .categorias h3{
-    width: 10vw;
-    height: 80vh;
-    font-size: 30px;
+    position: relative;
+    top: 150px;
+    left: 15px;
     margin-left: 260px;
-    margin-top: 150px;
+    width: 150px;
+    text-transform: uppercase;
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 30px;
+    
 }
-
-
