@@ -1,5 +1,5 @@
 import classes from "./Contacts.module.css";
-import contact from "../../assets/img/contact.png"
+import contact from "../../assets/img/contact.png";
 
 const Contacts = () => {
   return (
@@ -21,7 +21,7 @@ const Contacts = () => {
             <h3>alo@sitebacana.com.br</h3>
 
             <h2>Telefone</h2>
-            <h3>(12) 3456-7890</h3>
+            <h3>(12)34567890</h3>
         </div>
 
     </div>
