@@ -2,7 +2,7 @@
 .services h1{
     color: #F9EF23;
     text-transform: uppercase;
-    margin-top: -400px;
+    margin-top: -700px;
     font-family: 'Anton', sans-serif;
 }
 
@@ -15,18 +15,21 @@
 }
 
 .imagensService{
-    width: 25vw;
+    width: 85vw;
     height: 50vh;
     display: flex;
-    flex-direction: row;
-    justify-items: center;
+
+    /* justify-content: space-between;
+    justify-items: center; */
     margin-left: 170px;
     margin-top: -80px;
 
 }
 
-.imagensService img{
+.imagensService span{
     padding: 15px;
+    /* flex-wrap: wrap; */
+   
 }
 
 .categorias{
@@ -53,11 +56,23 @@
         margin-top: 150px;
     }
 
+    .imagensService{
+        flex-direction: column;
+        margin-left: 500px;
+        margin-bottom: 500px;
+        
+    }
+    .imagensService span{
+       margin-bottom: 60px;
+    }
+
     .services h2{
         margin-top: 150px;
         justify-content: center;
         text-align: center;
         width: 380px;
-        
     }
+
+   
+
 }

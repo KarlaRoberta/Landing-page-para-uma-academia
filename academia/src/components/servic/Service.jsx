@@ -21,11 +21,18 @@ export const Service = () => {
         
         <div className={classes.imagensService}>
   
+                <span> 
                 <img className={classes.tour} src={tour} alt="Imagem de alteres de academia." />
-              
+                </span>
+
+                <span>
                 <img className={classes.aulas} src={aulas} alt="Imagem de duas pessoas pulando corda." />
+                </span>
               
+              <span>
                 <img className={classes.personal}  src={personal} alt="Imagem de uma pessoa fazendo exercício." />
+
+              </span>
 
          
                
