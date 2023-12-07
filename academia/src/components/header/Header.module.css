@@ -40,5 +40,10 @@ button{
 @media (max-width: 460px){ 
   .header{
     font-size: 54px;
+    margin-top: 150px;
+  }
+
+  img{
+    height: 70vh;
   }
 }

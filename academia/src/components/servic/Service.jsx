@@ -15,7 +15,7 @@ export const Service = () => {
 
         <h3>Tour pela academia</h3>
         <h3>Aulas em grupo</h3>
-        <h3>Personal Trainers</h3>
+        <h3 className={classes.p}>Personal Trainers</h3>
 
       </div>
         
@@ -34,8 +34,6 @@ export const Service = () => {
 
               </span>
 
-         
-               
         </div>
         </div>
   )

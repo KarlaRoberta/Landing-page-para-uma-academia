@@ -8,7 +8,7 @@ export const Depositions = () => {
 
   return (
     <div>
-        <h1 className={classes.localizacao}>Depoimentos</h1>
+        <h1 className={classes.depoimento}>Depoimentos</h1>
         
         <div className={classes.imagensAnteseDepois}>
             <img src={menina} alt="Foto de uma mulher" />

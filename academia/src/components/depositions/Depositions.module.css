@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-.localizacao{
+.depoimento{
     position: relative;
     top: 70px;
     font-size: 50px;
@@ -73,4 +73,20 @@
     position: relative;
     left: 50px;
     
+}
+
+@media (max-width: 460px){ 
+    .depoimento{
+        margin-top: -250px;
+    }
+
+    .imagensAnteseDepois{
+        flex-wrap: wrap;
+        
+        
+    }
+    .imagensAnteseDepois img{
+        width: 250px;
+        height: 250px;
+    }
 }
