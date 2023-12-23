@@ -9,6 +9,7 @@
     font-family: 'Anton', sans-serif;
     color: #F9EF23;
     text-transform: uppercase;
+    
 }
 
 .icon{
@@ -46,12 +47,14 @@
 
 .blocoDepoimentos span{
     background-color: #F9EF23;
-    height: 200px;
-    width: 28.5%;
+    height: 220px;
+    width: 31.7%;
     padding: 26px;
     margin-top: 198px;
     position: relative;
-    left: 28px;
+    left: 38px;
+    display: flex;
+    
     
 }
 
@@ -69,9 +72,10 @@
 
 .depoimentos li{
     width: 20px;
-    padding: 30px;
+    margin-right: 40px;
+    padding-left: 10px;
     position: relative;
-    left: 50px;
+    left: 100px;
     
 }
 
@@ -82,11 +86,34 @@
 
     .imagensAnteseDepois{
         flex-wrap: wrap;
-        
+        left: 100px;
+        gap: 220px;
+
         
     }
     .imagensAnteseDepois img{
         width: 250px;
         height: 250px;
+        
+    }
+
+    .depoimentos{
+        flex-wrap: wrap;
+    }
+
+    .depoimentos li{
+        font-size: 16px;
+        /* margin-bottom: 280px; */
+        /* top: -820px; */
+        /* margin-bottom: 50px; */
+        background-color: #F9EF23;
+    }
+
+    .blocoDepoimentos{
+        visibility: hidden;
+    }
+    .blocoDepoimentos span{
+        float: left;
+        flex-wrap: wrap;
     }
 }
