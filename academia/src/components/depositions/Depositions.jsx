@@ -24,9 +24,9 @@ export const Depositions = () => {
           </div>
 
             <ul>
-                <li>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Laura Borges, 31</li>
-                <li>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Luana Cruz, 28</li>
-                <li>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Tomas Costa, 44</li>
+                <li className={classes.depoimento_Laura}>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Laura Borges, 31</li>
+                <li className={classes.depoimento_Luana}>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Luana Cruz, 28</li>
+                <li className={classes.depoimento_Tomas}>Depoimentos são citações curtas de clientes. É uma ótima forma de convencer os clientes a experimentar seus serviços. Tomas Costa, 44</li>
             </ul>
         </div>
 

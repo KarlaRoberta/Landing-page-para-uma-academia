@@ -109,6 +109,21 @@
         background-color: #F9EF23;
     }
 
+    .depoimento_Laura{
+        position: relative;
+        top: -830px;
+    }
+
+    .depoimento_Luana{
+        position: relative;
+        top: -540px;
+    }
+
+    .depoimento_Tomas{
+        position: relative;
+        top: -240px;
+    }
+
     .blocoDepoimentos{
         visibility: hidden;
     }
