@@ -86,13 +86,13 @@
 
     .imagensAnteseDepois{
         flex-wrap: wrap;
-        left: 100px;
+        left: 120px;
         gap: 220px;
 
         
     }
     .imagensAnteseDepois img{
-        width: 250px;
+        width: 300px;
         height: 250px;
         
     }
@@ -103,8 +103,8 @@
 
     .depoimentos li{
         font-size: 14px;
-       
         background-color: #F9EF23;
+        margin-left: 64px;
     }
 
     .depoimento_Laura{
