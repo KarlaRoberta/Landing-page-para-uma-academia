@@ -102,16 +102,18 @@
     }
 
     .depoimentos li{
-        font-size: 16px;
-        /* margin-bottom: 280px; */
-        /* top: -820px; */
-        /* margin-bottom: 50px; */
+        font-size: 14px;
+       
         background-color: #F9EF23;
     }
 
     .depoimento_Laura{
         position: relative;
         top: -830px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        
     }
 
     .depoimento_Luana{
