@@ -1,4 +1,4 @@
-# Projeto landing page de uma academia
+# Projeto landing page para uma academia.
 ## Inspiração de um modelo de site para academia.
 
 🚧 Projeto construido com React.
@@ -10,6 +10,11 @@
 ![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/1afe9e54-cc83-4539-88f5-6f18e0c1b4c2)
 ## Serviços
 ![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/e42086bb-1bab-4cef-8f45-ec2897f1acea)
+## Depoimentos
+![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/87d78438-d9b5-4503-b8d7-b5737085bbe9)
+## Contatos
+![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/25d6f50a-63b3-4998-8399-81ab4597fdba)
+
 
 ## 👩‍💻 Responsividade:
 ![image](https://github.com/KarlaRoberta/projeto-academia/assets/96659292/a119eece-5fe8-4def-9c4e-71797b881c8c)
