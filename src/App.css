@@ -4,8 +4,13 @@
   padding: 0;
   text-align: center;
   box-sizing: border-box;
-}
 
+}
+@media (max-width: 460px){
+  html{
+    overflow-x: hidden;
+  }
+}
 /* .logo {
   height: 6em;
   will-change: filter;

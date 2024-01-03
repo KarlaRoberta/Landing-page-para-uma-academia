@@ -1,7 +1,7 @@
 .menu{
     background-color: #FFFFFF;
     color: #676A6C;
-    width: 99.9%;
+    width: 100%;
     padding: 10px;
     position: fixed;
     z-index: 1000;
@@ -26,12 +26,13 @@
     .menu{
         display: flex;
         text-align: center;
-        padding: 16px;   
+        padding: 17px;   
+        margin-left: 180px;
     }
     .menu li{
-        left: 160px;
-        font-size: 16px;
-        margin-left: 20px;
+        left: -10px;
+        font-size: 14px;
+        margin-left: 12px;
     }
     
 }
