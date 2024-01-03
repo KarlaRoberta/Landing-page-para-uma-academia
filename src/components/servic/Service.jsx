@@ -7,6 +7,7 @@ import personal from "../../assets/img/personal.png";
 
 export const Service = () => {
   return (
+    <div id="servicos">
     <div className={classes.services}>
         <h1>O que oferecemos</h1>
         <h2>Estamos empenhados em trazer a melhor experiência e treino.</h2>
@@ -34,6 +35,7 @@ export const Service = () => {
 
               </span>
 
+        </div>
         </div>
         </div>
   )

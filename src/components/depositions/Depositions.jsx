@@ -7,7 +7,7 @@ import homem from "../../assets/img/rapaz.png";
 export const Depositions = () => {
 
   return (
-    <div>
+    <div id="depoimentos">
         <h1 className={classes.depoimento}>Depoimentos</h1>
         
         <div className={classes.imagensAnteseDepois}>

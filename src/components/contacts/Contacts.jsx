@@ -3,11 +3,11 @@ import contact from "../../assets/img/contact.png";
 
 const Contacts = () => {
   return (
-    <div className={classes.contacts}>
+    <div className={classes.contacts} >
         <div>
             <img src={contact} alt="" />
         </div>
-        <div>
+        <div id="contatos">
             <h1>Entre em contato ainda hoje</h1>
         </div>
 
