@@ -1,10 +1,11 @@
 * {
     margin: 0;
     padding: 0px 0px;
-    overflow-y: hidden;
+    
   }
 
 .header{
+  
     font-family: 'Anton', sans-serif;
     font-size: 120px;
     color: #FFFFFF;
@@ -17,7 +18,7 @@
   
 }
 img{
-    width: 100%;
+    width: 99.9%;
     margin-top: -70px;
  
 }
